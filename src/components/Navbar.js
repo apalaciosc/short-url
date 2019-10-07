@@ -6,7 +6,7 @@ class Navbar extends React.Component {
   render() {
     return (
       <header>
-        <nav className="navbar navbar-light bg-light">
+        <nav className="navbar navbar-light navbar-color">
           <a className="navbar-brand">
             <img className="img width-logo" src={appLogo} alt="Logo" />
           </a>
