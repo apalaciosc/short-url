@@ -2,6 +2,18 @@
   width: 16%;
 }
 
+.navbar,
+.navbar .navbar-nav .nav-item .nav-link {
+  text-decoration: none;
+  font-size: 20px;
+  padding: 0 20px;
+}
+
 .navbar-color {
-  background-color: #ebf4fa !important;
+  background-color: #73797f !important;
+}
+
+.navbar-toggler {
+  background-color: white;
+  border: 1px solid white;
 }
